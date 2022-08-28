@@ -1,0 +1,38 @@
+h1 {
+    color: Green;
+    text-align: center;
+}
+
+h2 {
+    color:aqua;
+    text-align: center;
+}
+
+th {
+    background-color: orange;
+}
+
+body {
+    box-sizing: border-box;
+    width: 100%;
+    background-color:grey;
+    font-family: Arial, sans-serif;
+}
+
+td {
+    color: white;
+    border-top-color: black;
+    border-top-style:solid;
+    border-top-width: 1px;
+    text-align: left;
+    padding: 4px;
+}
+
+.tableformat {
+    text-align: center;
+    width: 55%;
+    border-top-color: black;
+    border: 2px solid;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
